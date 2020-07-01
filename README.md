@@ -1,4 +1,4 @@
 ## Exercicios de programação
 
-- DeltaX - Calcula o Delta e o X de uma expressão que contém A, B e C,
-para para rodar só é necessario ter o NodeJS instalado.
+- DeltaX - Calculates the delta and the x of an expression that contains A, B and C,
+to run it you just had to got NodeJS installed.
