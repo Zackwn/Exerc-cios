@@ -21,7 +21,3 @@ class Areas {
 }
 
 const func = new Areas
-
-console.log(
-    func.Losango(2, 4)
-)
